@@ -17,7 +17,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 # Expanse Factions (EF)
 
-Flags and factions as agencies from the TV show The Expanse for Kerbal Space Program
+Flags and factions as agencies from The 'Expanse' for Kerbal Space Program
 
 
 
@@ -32,7 +32,7 @@ Flags and factions as agencies from the TV show The Expanse for Kerbal Space Pro
 >* [GitHub Pages][pages]
 >* [Known Issues][issue] for more details of feature requests and known issues
 >* [Marketing Slicks][markt]
->* [The ExpanseWiki](https://en.wikipedia.org/wiki/The_Expanse_(TV_series))
+>* [The Expanse Wiki](https://en.wikipedia.org/wiki/The_Expanse_(TV_series))
 
 ### Help Wanted
 
