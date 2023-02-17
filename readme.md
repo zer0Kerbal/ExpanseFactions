@@ -140,7 +140,7 @@ comment, like, upvote, subscribe, and share.
 
 <!--- license provenance -->
 [LIC:0:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
-[LIC:0:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved" -->
+[LIC:0:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0"
