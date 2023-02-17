@@ -60,6 +60,10 @@ I take no part, nor am I interested in maintaining the [CKAN][ckan:url] metadata
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
+### Recommends
+
+* [MEV Heavy Industries (MEV)][MEV]
+
 ### Suggests
 
 * [Adjustable Mod Panel (KAMP)][KAMP]
@@ -167,6 +171,7 @@ comment, like, upvote, subscribe, and share.
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom! (BOOM)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [KAMP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/ "Adjustable Mod Panel (KAMP)"
+[MEV]: https://forum.kerbalspaceprogram.com/index.php?/topic/209730-*/ "MEV Heavy Industries (MEV)"
 [NOTES]: https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*/ "SimpleNotes! (NOTES)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 [PM]: https://forum.kerbalspaceprogram.com/index.php?/topic/207261-*/ "Precise Maneuver (PM)"
