@@ -214,4 +214,3 @@ Track progress: issues [here][issue] and projects [here](https://github.com/zer0
 <!-- footnotes -->
 [^1]: this isn't a mod. ;P  
 [^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
