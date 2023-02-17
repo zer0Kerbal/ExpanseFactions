@@ -16,7 +16,7 @@ updated: 29 Jul 2022 -->
 
 [Home](./index.md)
 
-**A simple flag pack containing flags from the TV show The Expanse.**
+**Flags and factions as agencies from the TV show The Expanse for Kerbal Space Program.**
 
 ## Installation Instructions
 
