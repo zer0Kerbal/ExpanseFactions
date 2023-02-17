@@ -105,7 +105,7 @@ flags, and agency
 
 #### Original (ROOT) (0) - Author: [`unknown`][auth-link]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url]
 
 ### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
@@ -134,9 +134,9 @@ comment, like, upvote, subscribe, and share.
 [PAGES:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://www.dropbox.com/s/85og3xdhark7com/ExpanseFactions5.rar "Dropbox"
-[MOD:0:source]: https://www.dropbox.com/s/85og3xdhark7com/ExpanseFactions5.rar "Dropbox"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
+[MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/expansefactions "CurseForge"
+[MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/expansefactions "CurseForge"
+[MOD:0:thread]: https://www.curseforge.com/kerbal/ksp-mods/expansefactions "CurseForge"
 
 <!--- license provenance -->
 [LIC:0:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
