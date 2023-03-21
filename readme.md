@@ -114,7 +114,7 @@ flags, and agency
 
 comment, like, upvote, subscribe, and share.
 
-[![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url]
+[![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url]
 
 > ***Completely voluntary, absolutely amazing, and really does help me out a lot!***  
 <!-- links -->
