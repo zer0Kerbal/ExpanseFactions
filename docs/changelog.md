@@ -14,13 +14,100 @@ CC BY-ND 4.0 by zer0Kerbal -->
   
 | modName    | Expanse Factions (EF)                                             |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-ND-4.0                                                      |
+| license    | CC-BY-ND-4.0+ARR                                                  |
 | author     | Forge_User_04970226 and zer0Kerbal                                |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/212071-*/) |
 | github     | (https://github.com/zer0Kerbal/ExpanseFactions)                   |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ExpanseFactions)      |
-| spacedock  | (https://spacedock.info/mod/)                                     |
-| ckan       | ExpanseFactions                                                   |
+
+## Version 1.0.99.0-adoption - `<Thank you unknown>` edition
+
+* Released
+  * 21 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adopted by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+
+
+### Summary 1.0.99.0
+
+* Not everything is updated, but the important things should be
+* Pod's IVA is included, but basic-er
+* Stock Balance pass needed
+* loads of behind the scenes changes
+* Standard assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) are available (LD and MD)
+* Can search `llp`, `laztek` in editors
+* ghostparts.cfg temporarily added for renamed parts
+* experimental RealismOverhaul.cfg patch included (not tested)
+* Dependencies:
+  * LazTek Dev
+* size reduction
+  * archive size reduced from 24.5 mb --> 10.9 mb
+  * disk size reduced from 329 mb --> 75 mb
+
+### Archival Releases
+
+* 1.0.0.0-release `<Archival>`
+* closes #7 - Archival Releases
+* closes #8 - 1.0.0.0-release
+
+### Localization 1.0.99.0
+
+* Create
+  * Localization/
+    * <en-us.cfg> v1.0.0.0
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* Add
+  * Taiwanese (国语)
+  * <zh-tw.cfg> v1.0.0.0
+  * thank you to 
+* closes #27 - Create Agency
+* closes #26 - Taiwanese (国语) <zh-tw.cfg>
+* closes #10 - English <en-us.cfg>
+* updates #9 - Localization - Master
+
+### Assets 1.0.99.0
+
+* create Assets/ folder
+* convert
+  * textures from .mbm/tga/png to .dds
+
+### Documentation 1.0.99.0
+
+* Add
+  * GitHub Pages
+    * [`_config.yml`]
+    * [Attribution.md] v1.0.7.1
+    * [ManualInstallation.md] v1.1.8.0
+    * [404.md] v1.0.3.2
+    * [LegalMumboJumbo.md] v1.0.5.1
+    * [Localizations.md] v1.1.7.0
+    * [Marketing.md] v1.0.1.0
+    * [Notices.md] v1.0.1.0
+    * [Part-Catalog.md] v1.1.4.1
+    * [Why.md] v1.1.0.0
+  * docs/thumbs
+  * closes #5 - Create GitHub Pages
+
+### Cover image 1.0.99.0
+
+* Create HeroLogo/Cover image
+* closes #6 - Create HeroLogo.png
+
+
+### Status 1.0.99.0
+
+* Issues
+  * closes #1 - Expanse Factions (EF) 1.0.99.0-adoption `<Thank you unknown>` edition
+  * closes #2 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 1.1.99.0 Create Documentation
+  * closes #4 - 1.1.99.0 Create Social Media Presence
+
+
+---
 
 ## Version 1.0.0.0-release - `<Archival>` edition
 
