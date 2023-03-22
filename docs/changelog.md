@@ -29,23 +29,15 @@ CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Adopted by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-
-
 ### Summary 1.0.99.0
 
-* Not everything is updated, but the important things should be
-* Pod's IVA is included, but basic-er
-* Stock Balance pass needed
-* loads of behind the scenes changes
-* Standard assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) are available (LD and MD)
-* Can search `llp`, `laztek` in editors
-* ghostparts.cfg temporarily added for renamed parts
-* experimental RealismOverhaul.cfg patch included (not tested)
-* Dependencies:
-  * LazTek Dev
-* size reduction
-  * archive size reduced from 24.5 mb --> 10.9 mb
-  * disk size reduced from 329 mb --> 75 mb
+* 13 flags included
+  * 512x320 .dds
+* 3 Agencies
+  * MCR
+  * OPA
+  * UN
+* Localized (en-us.cfg)
 
 ### Archival Releases
 
@@ -60,12 +52,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
     * <en-us.cfg> v1.0.0.0
     * [readme.md] v2.1.2.0
     * [quickstart.md] v1.0.1.1
-* Add
-  * Taiwanese (国语)
-  * <zh-tw.cfg> v1.0.0.0
-  * thank you to 
 * closes #27 - Create Agency
-* closes #26 - Taiwanese (国语) <zh-tw.cfg>
 * closes #10 - English <en-us.cfg>
 * updates #9 - Localization - Master
 
