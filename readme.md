@@ -121,7 +121,7 @@ comment, like, upvote, subscribe, and share.
 [attrb]: https://zer0kerbal.github.io/ExpanseFactions/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/ExpanseFactions/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/ExpanseFactions/discussions "Discussions"
-[forum]: https://www.curseforge.com/kerbal/ksp-mods/ExpanseFactions "Expanse Factions (EF)"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/212071-*/ "Expanse Factions (EF)"
 [issue]: https://github.com/zer0Kerbal/ExpanseFactions/issues "Issues"
 [markt]: https://zer0kerbal.github.io/ExpanseFactions/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/ExpanseFactions/Notices "Notices"
